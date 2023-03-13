@@ -1,0 +1,10 @@
+Génère-moi en anglais quatre prompts basé sur ce template.
+
+[Location], [Time or weather indication], [Age]-year-old [adjective] [activity] [man or woman],
+resembling a fusion of [actor/actress] and [actor/actress], wearing [clothing description], holding [weapon or tool], [gestures description], in [position/pose], [mood adjective] expression, with [object or location description] in the background, [ambiance adjective] ambiance, shot with on [camera], [aperture] aperture, [focus description], [lighting description], [shutter speed], [ISO], rendered in a [photorealistic or illustrative] style, --ar [aspect ratio]
+
+Exemple : "dark alley, rainy night, a 30-year-old mysterious-looking teacher woman, resembling a fusion of Angelina Jolie and Scarlett Johansson, wearing a leather jacket, holding a switchblade, glancing over her shoulder, cautious expression, with the glowing neon sign in the background, eerie ambiance, shot on Nikon Z7 II mirrorless camera, using f/1.8 aperture, shallow depth of field, moody lighting, 1/60 shutter speed, ISO 800, rendered in a photorealistic style, --ar 16:9"
+
+Suis exactement la forme du template, et soit court dans les descriptions.
+
+Le personnage doit être une jeune fille steampunk, jouant sur une borne d'arcade steampunk. Inspire-toi du film "La Cité des Enfants Perdus". Les réglages de l'appareil photo doivent donner un rendu cinématographique.
