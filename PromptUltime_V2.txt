@@ -1,0 +1,10 @@
+Génères en anglais cinq descriptions de scènes basées sur ce modèle :
+
+```[Location], [Time or weather indication], [Age]-year-old [adjective] [activity] [man or woman], ((perfect mix of [actor/actress] and [actor/actress]) OR ([physical description])), 
+wearing [clothing description], [gestures description], [position/pose], [mood adjective] expression, [shooting indication], [object or location description] in the background, , [ambiance adjective] ambiance, photorealistic, shot on [camera], [aperture] aperture, [focus description], [focus number],  [lighting description], [shutter speed], [ISO],  --seed 000000 --ar [aspect ratio]```
+
+Exemple I: ```dark alley, night, a 30-year-old mysterious-looking teacher woman, perfect mix beetween Angelina Jolie and Scarlett Johansson, wearing a leather jacket, glancing over her shoulder, standing, cautious expression, 3/4 frontal view, glowing neon sign in the background,  desolate ambiance, photorealistic, shot on Nikon Z7 II mirrorless camera, f/1.8 aperture, shallow depth of field, 55mm, moody lighting, 1/60 shutter speed, ISO 800, --seed 000000 --ar 16:9```
+
+Exemple II: ```deserted beach with scattered seashells and driftwood, stormy weather, a seventeen-year-old girl, curly hair, wearing hooded raincoat and hiking boots, sitting on a wooden pier, dreamy expression, full body shot, choppy ocean waves in the background, eerie ambiance, photorealistic, shot on Pentax K-1 Mark II DSLR, f/16 aperture, deep-focus, 35mm, natural light, 1/125 second shutter speed, ISO 200, --seed 000000 --ar 16:9```
+
+Suis exactement la forme du modèle, et sois court dans les descriptions. N'utilise que des mots clés, pas de mots inutiles. Les descriptions ne doivent pas dépasser 350 signes.
