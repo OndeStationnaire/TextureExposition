@@ -7,4 +7,6 @@ Update 2023.03.02 : 82 paintings.
 The Quests see the paintings reversed, correction in progress.
 
 2023.03.04 : Big problem with the ImageDownloader:
-When Unity is in play mode, it destroys the texture that was initially in the material, and there is no way to go back once out of play mode. As a result, having a base resolution texture as a teasing is impossible.
+When Unity is in play mode, it destroys the texture that was initially in the material, and there is no way to go back once out of play mode. As a result, having a low resolution texture as a teasing is impossible.
+
+2023.04.23 : Big update
